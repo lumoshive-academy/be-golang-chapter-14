@@ -1,0 +1,16 @@
+{
+    "nama": "Produk Elektronik",
+    "deskripsi": "Daftar produk elektronik terbaru",
+    "produk": [
+        {
+            "nama": "Smartphone",
+            "merk": "Samsung",
+            "harga": 3000000
+        },
+        {
+            "nama": "Laptop",
+            "merk": "Apple",
+            "harga": 15000000
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "nama": "Akmal",
+    "umur": 30,
+    "alamat": {
+        "jalan": "Jl. Merdeka No. 10",
+        "kota": "Jakarta",
+        "kode_pos": "12345"
+    },
+    "hobi": [
+        "berenang",
+        "membaca",
+        "memasak"
+    ],
+    "menikah": false,
+    "saldo": null
+}
